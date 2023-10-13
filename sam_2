@@ -1,0 +1,2 @@
+a, b, c, d = 'приходи ', 'УЧИТЬСЯ ', 'в ', 'ургэу!'
+print(a.title() + b.lower() + c +d.upper())
